@@ -7,3 +7,5 @@ Git tracks changes of files.
 
 this is the working directory file.
 
+my stupid boss still perfer SVN.
+
